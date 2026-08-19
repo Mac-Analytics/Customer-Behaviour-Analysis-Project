@@ -1,7 +1,7 @@
 # Customer-Behaviour-Analysis-Project
-
+---
 ## NovaCart India is a fictional company created for this portfolio project. 😄
-
+---
 ## Table of contents
 - [Project Overview](#Project-Overview)
   
@@ -67,15 +67,12 @@ The Raw data Source used for this Analysis is  "Customer_Behaviour_Survey_respon
 
 - Which city tier represents NovaCart's strongest market presence?
 - Which states should receive greater market investment?
-- What product and customer segments offer the strongest opportunities for targeted marketing and cross-selling?
+- What product and customer segments offer the strongest opportunities for targeted marketing and cross-selli
 
-
-
-
-
+---
 <img width="1327" height="749" alt="Customer behaviour Dashboard" src="https://github.com/user-attachments/assets/abd8a6c9-2a1d-48db-b01e-c298dd83062e" />
 
-
+---
 
 
 
