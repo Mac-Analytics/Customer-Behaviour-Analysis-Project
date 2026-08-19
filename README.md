@@ -1,6 +1,6 @@
 # Customer-Behaviour-Analysis-Project
 
-## NovaCart India is a fictional company created for this portfolio project.
+## NovaCart India is a fictional company created for this portfolio project. 😄
 
 ## Table of contents
 - [Project Overview](#Project-Overview)
@@ -124,7 +124,7 @@ The Raw data Source used for this Analysis is  "Customer_Behaviour_Survey_respon
 - Business insights and storytelling
 
 
-
+👍👍👍
 
 
 
