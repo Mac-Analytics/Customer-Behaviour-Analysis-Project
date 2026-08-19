@@ -12,7 +12,6 @@
 - [Tools & techniques](#Tools-&-techniques)
 
 
-
 ### Project Overview
 This project analyses customer shopping behaviour for **NovaCart India**, a growing e-commerce company operating across multiple cities in India. The analysis is based on **customer survey responses** covering demographics, spending habits, shopping frequency, product preferences, and purchasing decisions.
 
@@ -69,6 +68,15 @@ The Raw data Source used for this Analysis is  "Customer_Behaviour_Survey_respon
 - Which city tier represents NovaCart's strongest market presence?
 - Which states should receive greater market investment?
 - What product and customer segments offer the strongest opportunities for targeted marketing and cross-selling?
+
+
+
+
+
+<img width="1327" height="749" alt="Customer behaviour Dashboard" src="https://github.com/user-attachments/assets/abd8a6c9-2a1d-48db-b01e-c298dd83062e" />
+
+
+
 
 
 ### EDA Results and findings
