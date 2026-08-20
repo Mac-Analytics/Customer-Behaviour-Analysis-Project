@@ -93,12 +93,16 @@ The Raw data Source used for this Analysis is  "Customer_Behaviour_Survey_respon
 
 **1. Implement Segment-Based Marketing**
 - Target price-sensitive students and younger customers with value offers, while positioning premium products and trusted brands for working professionals and older customers.
+  
 **2. Prioritise Tier 2 City Growth**
 - Introduce student discounts, bundles, and free-shipping offers in Tier 2 cities to convert NovaCart's largest customer base into stronger repeat customers.
+
 **3. Use Clothing to Drive Cross-Selling**
 - Maintain Clothing as a core category while recommending Electronics to male shoppers and Beauty Products to female shoppers to increase basket value.
+
 **4. Strengthen Loyalty Among High-Value Customers**
 - Launch a tiered loyalty programme for frequent shoppers and working professionals using rewards, personalised offers, and early product access to improve retention.
+
 **5. Personalise the Purchase Journey**
 - Use customer preferences and decision behaviour to deliver targeted discounts, product recommendations, reviews, and reminders that improve conversion and engagement.
 
