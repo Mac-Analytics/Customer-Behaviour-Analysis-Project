@@ -4,7 +4,7 @@
 ---
 ## Table of contents
 - [Project Overview](#Project-Overview)
-  
+  [Business Problem](#Business-Problem)
 - [Data Cleaning Process](#Data-Cleaning-Process)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [EDA-Results and findings](#EDA-Results-and-findings)
@@ -16,6 +16,14 @@
 This project analyses customer shopping behaviour for **NovaCart India**, a growing e-commerce company operating across multiple cities in India. The analysis is based on **customer survey responses** covering demographics, spending habits, shopping frequency, product preferences, and purchasing decisions.
 
 The project aims to identify valuable customer segments and provide actionable insights to improve marketing, customer engagement, and business decision-making.
+
+## Business Problem
+
+NovaCart India lacked clear visibility into **who its customers are, how they shop, what they prefer, and what influences their purchasing decisions**. This made it difficult to identify high-value customer segments, tailor marketing strategies, and allocate resources effectively.
+
+The analysis was undertaken to uncover customer behaviour patterns and provide actionable insights to support **customer segmentation, marketing effectiveness, customer engagement, and data-driven business decisions**.
+
+
 
 ### Data Source
 The Raw data Source used for this Analysis is  "Customer_Behaviour_Survey_responses.csv" file containing information about the customers [Download here](https://www.kaggle.com/datasets/mitultandon/ecommerce-customer-behaviour-dataset)
