@@ -13,15 +13,15 @@
 
 
 ### Project Overview
-This project analyses customer shopping behaviour for **NovaCart India**, a growing e-commerce company operating across multiple cities in India. The analysis is based on **customer survey responses** covering demographics, spending habits, shopping frequency, product preferences, and purchasing decisions.
+This project analyses customer shopping behaviour for **NovaCart India**, a growing e-commerce company operating across multiple cities in India. The analysis is based on **customer survey responses** covering demographics, spending habits, shopping frequency, product preferences and purchasing decisions.
 
 The project aims to identify valuable customer segments and provide actionable insights to improve marketing, customer engagement, and business decision-making.
 
 ## Business Problem
 
-NovaCart India lacked clear visibility into **who its customers are, how they shop, what they prefer, and what influences their purchasing decisions**. This made it difficult to identify high-value customer segments, tailor marketing strategies, and allocate resources effectively.
+NovaCart India lacked clear visibility into **who its customers are, how they shop, what they prefer and what influences their purchasing decisions**. This made it difficult to identify high-value customer segments, tailor marketing strategies and allocate resources effectively.
 
-The analysis was undertaken to uncover customer behaviour patterns and provide actionable insights to support **customer segmentation, marketing effectiveness, customer engagement, and data-driven business decisions**.
+The analysis was undertaken to uncover customer behaviour patterns and provide actionable insights to support **customer segmentation, marketing effectiveness, customer engagement and data-driven business decisions**.
 
 
 
@@ -39,6 +39,8 @@ The Raw data Source used for this Analysis is  "Customer_Behaviour_Survey_respon
 - Misplaced or irrelevant response values.
 - Duplicate survey records.
 - Incorrect data types in some columns.
+  
+
 
 **Steps Taken**
 - Renamed all columns with clear, concise, and analysis-friendly names.
@@ -75,7 +77,7 @@ The Raw data Source used for this Analysis is  "Customer_Behaviour_Survey_respon
 
 - Which city tier represents NovaCart's strongest market presence?
 - Which states should receive greater market investment?
-- What product and customer segments offer the strongest opportunities for targeted marketing and cross-selli
+- What product and customer segments offer the strongest opportunities for targeted marketing and cross-selling
 
 ---
 <img width="1327" height="749" alt="Customer behaviour Dashboard" src="https://github.com/user-attachments/assets/abd8a6c9-2a1d-48db-b01e-c298dd83062e" />
@@ -103,13 +105,13 @@ The Raw data Source used for this Analysis is  "Customer_Behaviour_Survey_respon
 - Target price-sensitive students and younger customers with value offers, while positioning premium products and trusted brands for working professionals and older customers.
   
 **2. Prioritise Tier 2 City Growth**
-- Introduce student discounts, bundles, and free-shipping offers in Tier 2 cities to convert NovaCart's largest customer base into stronger repeat customers.
+- Introduce student discounts, bundles and free-shipping offers in Tier 2 cities to convert NovaCart's largest customer base into stronger repeat customers.
 
 **3. Use Clothing to Drive Cross-Selling**
 - Maintain Clothing as a core category while recommending Electronics to male shoppers and Beauty Products to female shoppers to increase basket value.
 
 **4. Strengthen Loyalty Among High-Value Customers**
-- Launch a tiered loyalty programme for frequent shoppers and working professionals using rewards, personalised offers, and early product access to improve retention.
+- Launch a tiered loyalty programme for frequent shoppers and working professionals using rewards, personalised offers and early product access to improve retention.
 
 **5. Personalise the Purchase Journey**
 - Use customer preferences and decision behaviour to deliver targeted discounts, product recommendations, reviews, and reminders that improve conversion and engagement.
